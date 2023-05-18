@@ -1,0 +1,29 @@
+### Module positions - created on Fri Oct 14 19:09:31 2022 ###
+### Printed by Pcbnew version (6.0.5)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val              Package                               PosX       PosY       Rot  Side
+C1        100n             C_0603_1608Metric                -190.5130   -79.5020  180.0000  bottom
+C2        100n             C_0603_1608Metric                -179.3240   -75.4250   90.0000  bottom
+C3        100n             C_0603_1608Metric                -179.3240   -72.4030  -90.0000  bottom
+C4        100n             C_0603_1608Metric                -180.8480   -72.4030  -90.0000  bottom
+C5        100n             C_0603_1608Metric                -179.8320   -82.3090   90.0000  bottom
+C6        100n             C_0603_1608Metric                -181.3560   -82.3090  -90.0000  bottom
+C7        100n             C_0603_1608Metric                -182.8800   -82.3090  -90.0000  bottom
+C8        100n             C_0603_1608Metric                -183.8960   -72.3900  -90.0000  bottom
+C9        100n             C_0603_1608Metric                -182.3720   -72.3900  -90.0000  bottom
+C10       100n             C_0603_1608Metric                -184.4040   -82.2960   90.0000  bottom
+C11       100n             C_0603_1608Metric                -185.9280   -82.3090   90.0000  bottom
+C12       100n             C_0603_1608Metric                -188.2140   -72.4030  -90.0000  bottom
+C13       100n             C_0603_1608Metric                -188.2140   -82.2960   90.0000  bottom
+C14       100n             C_0603_1608Metric                -190.5130   -76.4540  180.0000  bottom
+C15       100n             C_0603_1608Metric                -190.5130   -73.4060  180.0000  bottom
+C16       100n             C_0603_1608Metric                -190.5130   -74.9300  180.0000  bottom
+C17       100n             C_0603_1608Metric                -190.5130   -77.9780  180.0000  bottom
+C18       100n             C_0603_1608Metric                -190.5130   -81.0260  180.0000  bottom
+IC1       AD9852ASVZ       QFP65P1600X1600X120-81N           185.4200   -77.4700    0.0000  top
+J1        Conn_01x20_Male  PinHeader_2x10_P2.54mm_Vertical   167.6400   -66.0400    0.0000  top
+J2        Conn_01x20_Male  PinHeader_2x10_P2.54mm_Vertical   173.9950   -95.2550   90.0000  top
+J3        Conn_01x20_Male  PinHeader_2x10_P2.54mm_Vertical   196.8450   -59.6850  -90.0000  top
+J4        Conn_01x20_Male  PinHeader_2x10_P2.54mm_Vertical   203.2000   -88.9000  180.0000  top
+## End

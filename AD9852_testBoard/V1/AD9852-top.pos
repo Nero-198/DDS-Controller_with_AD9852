@@ -1,0 +1,11 @@
+### Module positions - created on Fri Oct 14 19:00:41 2022 ###
+### Printed by Pcbnew version (6.0.5)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                               PosX       PosY       Rot  Side
+IC1       AD9852ASVZ       QFP65P1600X1600X120-81N           185.4200   -77.4700    0.0000  top
+J1        Conn_01x20_Male  PinHeader_2x10_P2.54mm_Vertical   167.6400   -66.0400    0.0000  top
+J2        Conn_01x20_Male  PinHeader_2x10_P2.54mm_Vertical   173.9950   -95.2550   90.0000  top
+J3        Conn_01x20_Male  PinHeader_2x10_P2.54mm_Vertical   196.8450   -59.6850  -90.0000  top
+J4        Conn_01x20_Male  PinHeader_2x10_P2.54mm_Vertical   203.2000   -88.9000  180.0000  top
+## End
